@@ -4,7 +4,7 @@
 
 # Calculadora de Imc - ReactJs
 
-Aplicacao fluxo de caixa em React + Redux/Redux Tooltkit.
+Aplicacao simulando o fluxo de caixa feito em React + Redux/Redux Tooltkit.
 
 ## Demonstração
 
