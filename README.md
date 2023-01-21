@@ -34,10 +34,24 @@ Desktop
 - [React-Redux](https://react-redux.js.org/)
 - [Styled-Components](https://styled-components.com/docs)
 
+## ✅ Funcionalidades
+
+- Temas dark e light
+- Preview em tempo real
+- Modo tela cheia
+- Multiplataforma
+
+## ⚠️ Proximas Funcionalidades 
+
+- Modo Dark e Light 
+- Melhorias de Usuabilidade 
+- Envio Feedback/Relatorio de bugs
+- Caixa com Valor contabil geral
+
 ## Clonar o repositório
 
 ```bash
-$ git clone 
+$ git clone https://github.com/GuilhaoF/Redux-Caixa.git
 ```
 
 ## Instalar dependências do Projeto
