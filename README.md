@@ -36,10 +36,8 @@ Desktop
 
 ## ✅ Funcionalidades
 
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
+- Saques e Debitos 
+- Responsividade
 
 ## ⚠️ Proximas Funcionalidades 
 
