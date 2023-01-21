@@ -1,11 +1,12 @@
 import { useAppSelector } from "../../hooks/hooks";
+import { RootState } from "../../store/store";
 import { HeaderContainer} from "./styled";
 
 
 
 export function Header() {
 
-  const balance = useAppSelector(state => state.operation.valueCash)
+  const balance = useAppSelector((state: RootState) => state.operation.valueCash)
 
   return (
     <HeaderContainer>
